@@ -1,6 +1,7 @@
-# hidroapp
+# LinkNews
 
-A new Flutter project.
+MisionTIC 2021 - proyecto en flutter.
+Red Social para periodistas.
 
 ## Getting Started
 
